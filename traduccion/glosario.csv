@@ -1,0 +1,82 @@
+﻿termino_en,termino_es,tipo,notas
+Amihama,Amihama,lugar,se mantiene
+Harbor,Puerto,lugar,
+Black Ship,Barco Negro,lugar,con mayúsculas (los kurofune)
+Little Britain,Pequeña Bretaña,lugar,
+Consulate,Consulado,lugar,
+Main Plaza,Plaza principal,lugar,
+Back Roads,Callejones,lugar,
+Town,Pueblo,lugar,
+Shrine,Santuario,lugar,
+Magistrate,Magistratura / magistrado,ambiguo,el edificio es la Magistratura; la persona (Kotobuki) es el magistrado; no se valida automáticamente
+Magistrate's Office,Magistratura,lugar,
+Torture Chamber,Cámara de tortura,lugar,
+Cemetery,Cementerio,lugar,
+Language School,Escuela de idiomas,lugar,
+Gambling Den,Garito,lugar,
+Clothing Store,Tienda de ropa,lugar,
+Inn,Posada,lugar,
+Eatery,Fonda,lugar,
+Soba-ya,Soba-ya,lugar,se mantiene
+Sushi-ya,Sushi-ya,lugar,se mantiene
+Onigiri-ya,Onigiri-ya,lugar,se mantiene
+Toasty Truth Bar,Bar Toasty Truth,lugar,nombre propio
+Dojo,Dojo,lugar,sin tilde
+Smithy,Herrería,lugar,
+Casino,Casino,lugar,
+Night Crawl,visita nocturna,término,yobai; "Night Crawling" = "visitas nocturnas"
+Disciples of Prajna,Discípulos de Prajna,facción,"los Prajna" en forma corta
+Prajna,Prajna,facción,
+Shogunate,Shogunato,facción,
+Foreigners,Extranjeros,facción,
+British,británico/a(s),gentilicio,concuerda en género y número; no se valida automáticamente
+samurai,samurái,término,plural samuráis
+ronin,ronin,término,sin macrón (la fuente no lo tiene)
+katana,katana,término,femenino
+shinobi,shinobi,término,
+sensei,sensei,término,
+shogun,shogun,término,
+daimyo,daimyo,término,
+yakuza,yakuza,término,
+harakiri,harakiri,término,
+koi-koi,koi-koi,término,juego de cartas hanafuda; los yaku (Ino Shika Cho, Tan, Tane, Kasu) se mantienen
+mon,mon,término,moneda; el símbolo 文 se conserva
+Nameless Samurai,Samurái sin nombre,nombre,nombre por defecto del jugador
+Samurai Pts,Pts. samurái,interfaz,"Samurai Points" = puntos samurái
+Crime Rate,Criminalidad,interfaz,
+Strength,Fuerza,arma,estadística; abreviado Fue
+Hardness,Dureza,arma,
+Degradation,Desgaste,arma,abreviado Des
+Durability,Durabilidad,arma,abreviado Dur
+Vitality,Vitalidad,estadística,
+Life,Vida,estadística,HP = vida
+Charm,Amuleto,arma,accesorio/ranura del arma
+Blade,Hoja,arma,
+Guard,Guarda,arma,pieza del arma (tsuba)
+Grip,Empuñadura,arma,
+Weapon Sack,Bolsa de armas,interfaz,
+Weapon Chest,Cofre de armas,interfaz,
+Stance,Postura,combate,
+Style,Estilo,combate,"My Style" = Mi estilo
+Move,Técnica,combate,"Moves List" = Lista de técnicas
+Skill Pts.,Pts. de técnica,combate,
+Ability Points,Puntos de habilidad,combate,
+Jo-dan,Jo-dan,postura,se mantiene
+Chu-dan,Chu-dan,postura,se mantiene
+Ge-dan,Ge-dan,postura,se mantiene
+Waki,Waki,postura,se mantiene
+Iai,Iai,postura,se mantiene
+One-Handed,Una mano,postura,
+Dual Arms,Dos armas,postura,
+Spear,Lanza,postura,
+Hand-to-Hand,Cuerpo a cuerpo,postura,
+Defense Break,Ruptura de defensa,combate,
+Spring Harvest,Cosecha de primavera,combate,modo de furia; con mayúscula inicial
+Deathblow,Golpe mortal,combate,
+Ensemble,Conjunto,interfaz,vestimenta guardada
+Mission,Misión,interfaz,
+Refine,Refinar,herrería,
+Recast,Refundir,herrería,
+Appraise,Tasar,herrería,
+pupil,discípulo,dojo,
+Chips,Fichas,casino,

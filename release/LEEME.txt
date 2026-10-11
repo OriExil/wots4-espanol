@@ -1,0 +1,31 @@
+WAY OF THE SAMURAI 4 - PARCHE AL ESPAÑOL (no oficial) - PC / Steam
+===================================================================
+
+INSTALAR
+  1. Cierra el juego.
+  2. Doble clic en WotS4-Espanol.exe
+  3. Elige "1) Instalar el parche" y confirma la carpeta del juego.
+  4. Abre el juego. El idioma del juego debe estar en English
+     (con el parche esa opción se llama "Español").
+
+  Si Windows muestra "Windows protegió su PC": Más información >
+  Ejecutar de todas formas. El instalador no está firmado; su código
+  fuente completo está publicado en la página del proyecto.
+
+DESINSTALAR
+  Abre otra vez WotS4-Espanol.exe y elige "2) Desinstalar".
+  (Plan B: Steam > clic derecho en el juego > Propiedades >
+  Archivos instalados > Verificar integridad de los archivos.)
+
+QUÉ HACE
+  Lee los archivos de texto de TU copia del juego, les aplica la
+  traducción y guarda antes los originales en la carpeta
+  _backup_parche_es (dentro del juego). No toca el ejecutable ni
+  las partidas guardadas. No incluye archivos del juego.
+
+¿ENCONTRASTE UN ERROR?
+  Avísanos en la pestaña "Issues" de la página del proyecto en
+  GitHub, si puedes con una captura de pantalla.
+
+Proyecto de aficionados, gratuito y sin fines de lucro.
+Way of the Samurai 4 pertenece a sus respectivos dueños.
